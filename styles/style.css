@@ -38,8 +38,8 @@
   text-underline-offset: 3px;
 }
 
-.header__links-list-item_no-bullit {
-  text-decoration: none;
+.header__link_active { 
+  text-decoration: none; 
 }
 
 .address {
