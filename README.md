@@ -1,4 +1,3 @@
-https://github.com/AngelinaKapralova/ono-tebe-nado-ad
 ## 📝 О проекте
 
 Этот проект - моя первая практическая работа по вёрстке, написанная на HTML и CSS.
