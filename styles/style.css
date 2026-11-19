@@ -66,12 +66,12 @@
 
 .cover {
   position: relative;
-  max-height: 757px;
+  min-height: 757px;
   background-image: url('../images/cover.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding: 165px 50px 207px 50px;
+  padding: 165px 50px 0px 50px;
   box-sizing: border-box;
 }
 
